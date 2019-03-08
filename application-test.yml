@@ -1,4 +1,4 @@
 app: apptest
 common:
-  source: user-source-dev
-  username: user-username-dev
+  source: user-source-test
+  username: user-username-test
