@@ -1,4 +1,3 @@
 app: apptest
 common:
-  source: application-common-source-test
   username: user-username-test
