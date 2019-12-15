@@ -2,5 +2,7 @@ dbsource: dbtest
 product:
   source: db-source-test
   username: db-username-test
+common:
+  source: product-common-source-prod
 
 

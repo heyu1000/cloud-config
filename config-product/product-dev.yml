@@ -2,6 +2,8 @@ dbsource: dbdev2
 product:
   source: db-source-dev
   username: db-username-dev
+common:
+  source: product-common-source-dev
 
 
 
