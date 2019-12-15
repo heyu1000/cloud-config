@@ -1,7 +1,6 @@
 user:
   source: user-source-default
   username: user-username-default
-common:
-  source: user-common-source-default
+
 
 
