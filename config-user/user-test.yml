@@ -1,5 +1,7 @@
 user:
   source: user-source-test
   username: user-username-test
+common:
+  source: user-common-source-test
 
 
