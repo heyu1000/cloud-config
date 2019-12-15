@@ -2,7 +2,6 @@ dbsource: db
 product:
   source: db-source-default
   username: db-username-default
-common:
-  source: product-common-source-default
+
 
 
