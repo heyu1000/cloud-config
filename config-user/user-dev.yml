@@ -1,7 +1,8 @@
 user:
   source: user-source-dev1
   username: user-username-dev
-
+common:
+  source: user-common-source-dev
 
 
 
