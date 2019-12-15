@@ -1,6 +1,5 @@
 app: appdev1
 common:
-  source: application-common-source-dev
   username: user-username-dev
 
 
